@@ -1,12 +1,12 @@
 {
   "name": "cos-angular-translate-loader-static-files",
   "description": "A plugin for Angular Translate",
-  "version": "2.11.01",
+  "version": "2.11.02",
   "main": "./angular-translate-loader-static-files.js",
   "ignore": [],
   "author": "Pascal Precht",
   "license": "MIT",
   "dependencies": {
-    "cos-angular-translate": "~2.11.01"
+    "cos-angular-translate": "2.11.01"
   }
 }
